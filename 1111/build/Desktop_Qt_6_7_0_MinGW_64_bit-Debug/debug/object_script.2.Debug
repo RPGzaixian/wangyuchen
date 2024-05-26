@@ -1,0 +1,14 @@
+debug/jiemian.o
+debug/keyswitch.o
+debug/main.o
+debug/menu.o
+debug/reallyquit.o
+debug/saving.o
+debug/widget.o
+debug/qrc_q.o
+debug/moc_jiemian.o
+debug/moc_keyswitch.o
+debug/moc_menu.o
+debug/moc_reallyquit.o
+debug/moc_saving.o
+debug/moc_widget.o

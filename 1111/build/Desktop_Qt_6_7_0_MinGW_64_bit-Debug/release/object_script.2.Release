@@ -1,0 +1,14 @@
+release/jiemian.o
+release/keyswitch.o
+release/main.o
+release/menu.o
+release/reallyquit.o
+release/saving.o
+release/widget.o
+release/qrc_q.o
+release/moc_jiemian.o
+release/moc_keyswitch.o
+release/moc_menu.o
+release/moc_reallyquit.o
+release/moc_saving.o
+release/moc_widget.o
