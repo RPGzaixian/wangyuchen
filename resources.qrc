@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>background1.jpg</file>
+        <file>character.png</file>
+        <file>npc_nvwu.png</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
